@@ -8,9 +8,9 @@ const initialFriends = [
     balance: -7,
   },
   {
-    id: 933372,
+    id: 93335,
     name: "Rakesh",
-    image: "https://i.pravatar.cc/48?u=933372",
+    image: "https://i.pravatar.cc/48?u=936335",
     balance: 20,
   },
   {
@@ -22,7 +22,7 @@ const initialFriends = [
   {
     id: 468432,
     name: "Rajesh",
-    image: "https://i.pravatar.cc/48?u=468432",
+    image: "https://i.pravatar.cc/48?u=46846352",
     balance: 23,
   },
 ]
